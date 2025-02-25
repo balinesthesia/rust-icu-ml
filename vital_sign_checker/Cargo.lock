@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "pulse_checker"
+name = "vital_sign_checkerr"
 version = "0.1.0"

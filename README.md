@@ -46,7 +46,7 @@ _Tips_:
 
 - Clone: `git clone https://github.com/balinesthesia/rust-icu-ml.git`
 - Run: `cd pulse_checker && cargo run`
-- Play: Swap 120 and 92—see alerts!
+- Play: Swap 120 and 97—see alerts!
 - New? Hit [Rust by Example](https://github.com/rust-lang/rust-by-example)—start with “Hello, World” then tweak 120!
 
 ### Roadmap

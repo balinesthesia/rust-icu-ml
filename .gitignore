@@ -1,5 +1,6 @@
 # Rust build artifacts
-*/target/*
+/target/
+vital_sign_checker/target/
 
 /Cargo.lock
 
